@@ -1,0 +1,49 @@
+load cat.jpg
+greyscale
+save cat-greyscale.png
+
+load cat.jpg
+sepia
+save cat-sepia.png
+
+load cat.jpg
+dither
+save cat-dither.png
+
+load cat.jpg
+mosaic 2000
+save cat-mosaic.png
+
+load elf.png
+greyscale
+save elf-greyscale.png
+
+load elf.png
+sepia
+save elf-sepia.png
+
+load elf.png
+dither
+save elf-dither.png
+
+load elf.png
+mosaic 2000
+save elf-mosaic.png
+
+generategreece 100
+save greece.png
+
+generatefrance 100
+save france.png
+
+generateswiss 100
+save swiss.png
+
+generateverticalrainbow 100 100
+save verticalrainbow.png
+
+generatehorizontalrainbow 100 100
+save horizontalrainbow.png
+
+generatecheckerboard 100 100 10
+save checkerboard.png

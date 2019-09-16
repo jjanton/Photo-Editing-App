@@ -1,0 +1,8 @@
+generategreece 100
+blur
+mosaic 2000
+dither
+greyscale
+sepia
+save greece.png
+
